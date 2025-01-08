@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\LoginDemoApp.exe
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\publish_folder\web.config
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\appsettings.Development.json
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\appsettings.json
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\publish_folder\appsettings.Development.json
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\publish_folder\appsettings.json
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\publish_folder\LoginDemoApp.deps.json
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\publish_folder\LoginDemoApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\publish_folder\LoginDemoApp.staticwebassets.endpoints.json
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\LoginDemoApp.dll
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\LoginDemoApp.deps.json
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\LoginDemoApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\test\LoginDemoApp\publish_folder\LoginDemoApp.pdb
