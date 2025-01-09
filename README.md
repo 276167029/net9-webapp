@@ -1,4 +1,4 @@
-##.net 9.0 hello world webapp
+# .net 9.0 hello world webapp
 
 dotnet watch run
 
