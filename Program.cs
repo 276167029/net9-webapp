@@ -24,6 +24,10 @@ builder.Services.AddSession(options =>
 
 // 注册服务类
 builder.Services.AddScoped<MyController>();
+
+LoginDemoApp.SQLite.Config.ConfigureServices(builder.Services);
+
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 
@@ -71,6 +75,17 @@ app.MapGet("/api", MyController.HandleGetRequest);
 app.MapGet("/message", (MyController myService) =>
 {
     return myService.GetMessage();
+});
+
+
+
+app.MapGet("/sqllite", (LoginDemoApp.SQLite.SQLiteDataAccess myService) =>
+{
+
+myService.CreateUserTable();
+myService.InsertDemo();
+    
+    return myService.GetExecuteScalar();
 });
 
 
