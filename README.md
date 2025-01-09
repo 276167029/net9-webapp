@@ -10,3 +10,7 @@ git push -u origin maingit add
 git remote add origin https://github.com/276167029/net9-webapp.git
 git branch -M main
 git push -u origin main
+
+git branch
+git checkout main
+git pull --tags
