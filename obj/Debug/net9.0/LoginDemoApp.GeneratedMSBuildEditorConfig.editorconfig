@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LoginDemoApp
 build_property.RootNamespace = LoginDemoApp
-build_property.ProjectDir = C:\Users\Administrator\Desktop\test\LoginDemoApp\
+build_property.ProjectDir = G:\wangzhonglv\个人资料\360云盘\云同步\net9\test\LoginDemoApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\test\LoginDemoApp
+build_property.MSBuildProjectDirectory = G:\wangzhonglv\个人资料\360云盘\云同步\net9\test\LoginDemoApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Administrator/Desktop/test/LoginDemoApp/Pages/Error.cshtml]
+[G:/wangzhonglv/个人资料/360云盘/云同步/net9/test/LoginDemoApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/test/LoginDemoApp/Pages/Index.cshtml]
+[G:/wangzhonglv/个人资料/360云盘/云同步/net9/test/LoginDemoApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/test/LoginDemoApp/Pages/Privacy.cshtml]
+[G:/wangzhonglv/个人资料/360云盘/云同步/net9/test/LoginDemoApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/test/LoginDemoApp/Pages/Shared/_test.cshtml]
+[G:/wangzhonglv/个人资料/360云盘/云同步/net9/test/LoginDemoApp/Pages/Shared/_test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF90ZXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/test/LoginDemoApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[G:/wangzhonglv/个人资料/360云盘/云同步/net9/test/LoginDemoApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/test/LoginDemoApp/Pages/test.cshtml]
+[G:/wangzhonglv/个人资料/360云盘/云同步/net9/test/LoginDemoApp/Pages/test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/test/LoginDemoApp/Pages/_ViewImports.cshtml]
+[G:/wangzhonglv/个人资料/360云盘/云同步/net9/test/LoginDemoApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/test/LoginDemoApp/Pages/_ViewStart.cshtml]
+[G:/wangzhonglv/个人资料/360云盘/云同步/net9/test/LoginDemoApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/test/LoginDemoApp/Pages/Shared/_Layout.cshtml]
+[G:/wangzhonglv/个人资料/360云盘/云同步/net9/test/LoginDemoApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sx6x2td7mm

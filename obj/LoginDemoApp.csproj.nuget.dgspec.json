@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\test\\LoginDemoApp\\LoginDemoApp.csproj": {}
+    "G:\\wangzhonglv\\个人资料\\360云盘\\云同步\\net9\\test\\LoginDemoApp\\LoginDemoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\test\\LoginDemoApp\\LoginDemoApp.csproj": {
+    "G:\\wangzhonglv\\个人资料\\360云盘\\云同步\\net9\\test\\LoginDemoApp\\LoginDemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\test\\LoginDemoApp\\LoginDemoApp.csproj",
+        "projectUniqueName": "G:\\wangzhonglv\\个人资料\\360云盘\\云同步\\net9\\test\\LoginDemoApp\\LoginDemoApp.csproj",
         "projectName": "LoginDemoApp",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\test\\LoginDemoApp\\LoginDemoApp.csproj",
+        "projectPath": "G:\\wangzhonglv\\个人资料\\360云盘\\云同步\\net9\\test\\LoginDemoApp\\LoginDemoApp.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\test\\LoginDemoApp\\obj\\",
+        "outputPath": "G:\\wangzhonglv\\个人资料\\360云盘\\云同步\\net9\\test\\LoginDemoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

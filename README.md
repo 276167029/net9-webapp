@@ -14,3 +14,4 @@ git push -u origin main
 git branch
 git checkout main
 git pull --tags
+git add .
