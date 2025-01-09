@@ -1,4 +1,7 @@
-.net 9.0 hello world webapp
+##.net 9.0 hello world webapp
+
+dotnet watch run
+
 echo "# net9-webapp" >> README.md
 git init
 git add README.md
